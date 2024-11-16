@@ -14,3 +14,4 @@ https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset/data
 
 https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-electronics-store/data
 
+https://www.iguazio.com/blog/13-best-free-retail-datasets-for-machine-learning/
