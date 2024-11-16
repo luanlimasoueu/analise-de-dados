@@ -1,0 +1,16 @@
+https://www.kaggle.com/datasets/mkechinov/direct-messaging
+
+https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronics-store
+
+https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-jewelry-store
+
+https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop/data
+
+https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-electronics-store
+
+https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
+
+https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset/data
+
+https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-electronics-store/data
+
